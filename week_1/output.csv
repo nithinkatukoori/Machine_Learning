@@ -1,0 +1,5 @@
+,day,time,weather,temperature,company,humidity,wind,op
+0,0,morning,sunny,warm,yes,mild,strong,yes
+1,1,evening,rainy,cold,no,mild,normal,no
+2,2,morning,sunny,moderate,yes,normal,normal,yes
+3,3,evening,sunny,cold,yes,high,strong,yes
